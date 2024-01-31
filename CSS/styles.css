@@ -1855,3 +1855,9 @@ input.visually-hidden:checked + .modal-checkbox-label .modal-checkbox-span {
 .modal-submit-button:focus {
   background-color: var(--ocean-color);
 } */
+
+/*
+  |============================
+  | change all hovers/focusses to active for mobile and tab
+  |============================
+*/
